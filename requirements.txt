@@ -1,0 +1,6 @@
+Faker
+ipykernel
+matplotlib
+numpy
+pandas
+vega-datasets
